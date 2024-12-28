@@ -1,0 +1,6 @@
+# dune init proj nmap_xml_parser
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /home/juniper/.cache/dune/db
+# Workspace root: /home/juniper/coding/repos/nmap_xml_parser
+# Auto-detected concurrency: 8

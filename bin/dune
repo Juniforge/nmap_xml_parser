@@ -1,0 +1,4 @@
+(executable
+ (public_name nmap_xml_parser)
+ (name main)
+ (libraries nmap_xml_parser))

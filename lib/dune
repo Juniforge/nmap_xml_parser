@@ -1,0 +1,2 @@
+(library
+ (name nmap_xml_parser))
