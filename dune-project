@@ -1,4 +1,4 @@
-(lang dune 3.17)
+(lang dune 2.0)
 
 (name nmap_xml_parser)
 

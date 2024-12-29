@@ -1,0 +1,11 @@
+<nmaprun>
+  <host>
+    <address addr="192.168.0.1" addrtype="ipv4"/>
+  </host>
+  <host>
+    <address addr="192.168.0.2" addrtype="ipv4"/>
+  </host>
+  <host>
+    <address addr="192.168.0.3" addrtype="ipv6"/>
+  </host>
+</nmaprun>
