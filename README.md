@@ -1,5 +1,7 @@
 # NMAP XML PARSER
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 This project provides a simple OCaml script that parses Nmap XML output to extract IPv4 addresses that are marked as "up". It is designed to work with Nmap scan results that list multiple IP addresses along with their status (up or down). The script outputs a comma-separated list of IPs that are currently up.
 
 ## Features
@@ -35,7 +37,3 @@ opam init
 # Install OCaml and Dune
 opam install ocaml dune
 ```
-
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
